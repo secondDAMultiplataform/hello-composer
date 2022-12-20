@@ -1,5 +1,5 @@
 {
-    "name": "ourcodeworld/hello-composer",
+    "name": "secondDAMultiplataform/hello-composer",
     "description": "My first packagist package",
     "type": "package",
     "require": {
@@ -16,7 +16,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "ourcodeworld\\HelloComposer\\": "src/"
+            "secondDAMultiplataform\\HelloComposer\\": "src/"
         }
     }
 }
