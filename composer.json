@@ -1,5 +1,5 @@
 {
-    "name": "ourcodeworld/hello-composer",
+    "name": "seconddamultiplataform/hello-composer",
     "description": "My first packagist package",
     "type": "package",
     "require": {
@@ -8,15 +8,15 @@
     "license": "mit",
     "authors": [
         {
-            "name": "Your Name",
-            "email": "your@email.com",
-            "homepage": "http://yourhomepage-if-you-have.com"
+            "name": "Belen",
+            "email": "belenmaria2@msn.com",
+            "homepage": "https://github.com/secondDAMultiplataform/hello-composer"
         }
     ],
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "ourcodeworld\\HelloComposer\\": "src/"
+            "secondDAMultiplataform\\HelloComposer\\": "src/"
         }
     }
 }
